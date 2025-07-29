@@ -82,11 +82,11 @@ java Main
 text
 Copy
 Edit
-===========================================
+
 Enter your Choice:
 1. View Bookings
 2. Add Rooms
-===========================================
+
 Enter your choice: 2
 Enter the category of room: luxury
 Enter rent: 5000
