@@ -10,7 +10,7 @@ class show_and_book_rooms extends driver_connect{
             System.out.println("===========================================");
             System.out.println("        Welcome to Haseeb Hotel System      ");
             System.out.println("===========================================");
-            System.out.println("1. View Description of Rooms");
+            System.out.println("1. View Description of Rooms");  // Choose 0 to enter the admin side 
             System.out.println("2. View All Rooms");
             System.out.println("3. Book a Room");
             System.out.println("4. Exit");
